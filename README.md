@@ -2,7 +2,7 @@
 
 Ranking bank clients by their chance of subscribing to a term deposit, so a phone campaign reaches more subscribers with fewer calls. A **pruned decision tree** gives readable rules; a **random forest** gives the best ranking; an **out-of-time test** shows what happens when the economy shifts after training. Delivered through an **interactive Streamlit dashboard**.
 
-**▶ Live dashboard: [YOUR-APP-URL](YOUR-APP-URL)** · [Notebook](notebooks/term_deposit_decision_tree_random_forest.ipynb) · [Deployment guide](DEPLOY.md)
+**▶ Live dashboard: [YOUR-APP-URL](https://term-deposit-targeting.streamlit.app/)** · [Notebook](notebooks/term_deposit_decision_tree_random_forest.ipynb) · [Deployment guide](DEPLOY.md)
 
 ![Score a client](reports/figures/dashboard_1_score.png)
 
